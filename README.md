@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Olá! Sou Gabriel Custódio, um apaixonado Web Designer com uma sólida formação técnica em criação de experiências digitais únicas! Com dois cursos técnicos em Análise e Desenvolvimento de Sistemas e Informática para Internet, além de estar atualmente cursando Ciências da Computação, estou constantemente aprimorando minhas habilidades para oferecer soluções de alta qualidade aos meus clientes.</p>
+<p align="left">Olá! Sou Gabriel Custódio, um apaixonado Web Designer e Front-end Developer com uma sólida formação técnica em criação de experiências digitais únicas! Com dois cursos técnicos em Análise e Desenvolvimento de Sistemas e Informática para Internet, além de estar atualmente cursando Ciências da Computação, estou constantemente aprimorando minhas habilidades para oferecer soluções de alta qualidade aos meus clientes.</p>
 
 ###
 
