@@ -47,9 +47,9 @@
 ###
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://static.vecteezy.com/system/resources/thumbnails/011/153/370/small_2x/3d-web-development-illustration-png.png" alt="Nofyz Coder" width="400px" align="right" style="max-width: 100%;"></a></p>
-<p align="left">Olá! Sou Gabriel Custódio, um apaixonado Web Designer com uma sólida formação técnica em criação de experiências digitais únicas! Com dois cursos técnicos em Análise e Desenvolvimento de Sistemas e Informática para Internet, além de estar atualmente cursando Ciências da Computação, estou constantemente aprimorando minhas habilidades para oferecer soluções de alta qualidade aos meus clientes.</p>
-<p align="left">Olá! Sou Gabriel Custódio, um apaixonado Web Designer com uma sólida formação técnica em criação de experiências digitais únicas! Com dois cursos técnicos em Análise e Desenvolvimento de Sistemas e Informática para Internet, além de estar atualmente cursando Ciências da Computação, estou constantemente aprimorando minhas habilidades para oferecer soluções de alta qualidade aos meus clientes.</p>
-<p align="left">Olá! Sou Gabriel Custódio, um apaixonado Web Designer com uma sólida formação técnica em criação de experiências digitais únicas! Com dois cursos técnicos em Análise e Desenvolvimento de Sistemas e Informática para Internet, além de estar atualmente cursando Ciências da Computação, estou constantemente aprimorando minhas habilidades para oferecer soluções de alta qualidade aos meus clientes.</p>
+<p align="left">Atualmente estou estudando <b>React</b> e <b>Typescript</b> e aprendendo a automatizar o desenvolvimento de software com o uso de IA, como <b>Replit, Cursor, Lovable e Bolt</b>. Estou trabalhando em uma Startup, construindo um projeto extenso que está me ajudando a me desenvolver muito.</p>
+<p align="left">Estou fazendo também mentoria para estudantes de programacão e estou tentando compartilhar o conhecimento que adquiri ao longo desses anos.</p>
+<p align="left">Voce pode entrar em contato comigo nas seguintes redes:</p>
 
 ###
 
