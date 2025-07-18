@@ -22,7 +22,7 @@
   <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/snake.svg">
 </picture>
 
-<h2 align="`left">💻 Linguagens</h2>
+<h2 align="`left">💻 Linguagens de Programação</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="`left">🖌️ Softwares de Edicão</h2>
+<h2 align="`left">🖌️ Softwares de Edição</h2>
 
 ###
 
