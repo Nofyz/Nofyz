@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="`left">🎲 Banco de Dados e API</h2>
+<h2 align="`left">🎲 Banco de Dados e Versionamento</h2>
 
 ###
 
